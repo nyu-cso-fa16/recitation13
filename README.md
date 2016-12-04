@@ -4,7 +4,7 @@ Computer Systems Organization: Recitation 13
 Exercise -- Cache Organization
 -----
 
-Complete the problems in `Cache Organization`.pdf
+Complete the problems in `Cache Organization.pdf`
 
 Exercise -- Dynamic Memory Allocation
 -----
