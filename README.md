@@ -1,4 +1,5 @@
-Computer Systems Organization - Recitation 13: Dynamic Memory Allocation
+Computer Systems Organization - Recitation 13: 
+Dynamic Memory Allocation
 ==========
 
 Exercise -- Block Sizes and Headers
@@ -36,6 +37,7 @@ Determine the minimum block size for each of the following combinations of align
 Complete the last column of the table.
 
 Exercise -- Implicit Free List Allocation
+-----
 
 The following problem concerns dynamic storage allocation.
 
