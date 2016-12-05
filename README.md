@@ -1,5 +1,4 @@
-Computer Systems Organization - Recitation 13: 
-Dynamic Memory Allocation
+Computer Systems Organization - Recitation 13: Dynamic Memory Allocation
 ==========
 
 Exercise -- Block Sizes and Headers
